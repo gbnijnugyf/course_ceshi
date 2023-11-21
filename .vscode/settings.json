@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "junit-4.12.jar",
+        "commons-io-2.15.0-bin/commons-io-2.15.0/commons-io-2.15.0.jar",
+        "commons-io-2.15.0-bin/commons-io-2.15.0/commons-io-2.15.0-javadoc.jar",
+        "commons-io-2.15.0-bin/commons-io-2.15.0/commons-io-2.15.0-sources.jar",
+        "commons-io-2.15.0-bin/commons-io-2.15.0/commons-io-2.15.0-tests.jar",
+        "commons-io-2.15.0-bin/commons-io-2.15.0/commons-io-2.15.0-test-sources.jar",
+        "commons-csv-1.10.0-bin/commons-csv-1.10.0/commons-csv-1.10.0.jar",
+        "commons-csv-1.10.0-bin/commons-csv-1.10.0/commons-csv-1.10.0-sources.jar"
+    ]
+}

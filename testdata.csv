@@ -1,0 +1,47 @@
+100	100	1	Isosceles
+100	100	2	Not a triangle
+100	100	100	Not a triangle
+100	100	199	Isosceles
+100	100	200	Equilateral
+100	1	100	Isosceles
+100	2	100	Isosceles
+100	100	100	Equilateral
+100	199	100	Equilateral
+100	200	100	Isosceles
+1	100	100	Isosceles
+2	100	100	Isosceles
+100	100	100	Equilateral
+199	100	100	Isosceles
+200	100	100	Not a triangle
+100	100	1	Isosceles
+100	100	2	Isosceles
+100	100	100	Equilateral
+100	100	199	Isosceles
+100	100	200	Not a triangle
+100	1	100	Isosceles
+100	2	100	Isosceles
+100	100	100	Equilateral
+100	199	100	Isosceles
+100	200	100	Not a triangle
+1	100	100	Isosceles
+2	100	100	Isosceles
+100	100	100	Equilateral
+199	100	100	Isosceles
+200	100	100	Not a triangle
+1	1	1	Equilateral
+200	200	200	Equilateral
+1	200	200	Isosceles
+200	1	200	Isosceles
+200	200	1	Isosceles
+2	199	199	Isosceles
+199	2	199	Isosceles
+199	199	2	Isosceles
+1	1	199	Not a triangle
+1	199	1	Not a triangle
+199	1	1	Not a triangle
+1	199	199	Isosceles
+199	1	199	Isosceles
+199	199	1	Isosceles
+199	199	201	c invalid
+199	201	199	b invalid
+201	199	199	a invalid
